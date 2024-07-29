@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif; /* Define a fonte padrão */
     margin: 0; /* Remove a margem padrão do navegador */
     padding: 0; /* Remove o preenchimento padrão do navegador */
-    background-color: #f4f4f4; /* Define a cor de fundo da página */
+    background-color: #635656; /* Define a cor de fundo da página */
 }
 
 /* Estilo do cabeçalho */
 header {
-    background-color: #919191; /* Define a cor de fundo do cabeçalho */
-    color: #c801ff; /* Define a cor do texto do cabeçalho */
+    background-color: #b4b0b0; /* Define a cor de fundo do cabeçalho */
+    color: hsl(0, 0%, 0%); /* Define a cor do texto do cabeçalho */
     text-align: center; /* Centraliza o texto do cabeçalho */
     padding: 1em 0; /* Adiciona preenchimento vertical ao cabeçalho */
 }
@@ -24,13 +24,13 @@ section {
 
 /* Estilo dos títulos principais e secundários */
 h1, h2 {
-    color: #320101; /* Define a cor dos títulos */
+    color: #fa1616; /* Define a cor dos títulos */
     text-align: center; /* Centraliza os títulos na página */
 }
 
 /* Estilo das imagens */
 img {
-    max-width: 150px; /* Define a largura máxima da imagem */
+    max-width: 200px; /* Define a largura máxima da imagem */
     height: auto; /* Mantém a proporção da imagem */
     border-radius: 50%; /* Adiciona bordas arredondadas para imagens circulares */
     margin-right: 20px; /* Adiciona espaçamento à direita da imagem */
@@ -54,7 +54,7 @@ ul {
 
 /* Estilo dos itens da lista */
 ul li {
-    background: #e4e4e4; /* Define a cor de fundo dos itens da lista */
+    background: #471818; /* Define a cor de fundo dos itens da lista */
     border: 2px solid #3498db; /* Adiciona uma borda colorida ao redor dos itens */
     border-radius: 5px; /* Adiciona bordas arredondadas aos itens */
     margin: 0; /* Remove a margem vertical dos itens */
